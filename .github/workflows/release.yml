@@ -22,5 +22,11 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Set git identity
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "Github Actions"
       - name: Release
         run: bash ./release.sh ${{ github.event.inputs.solution }} ${{ github.event.inputs.version }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
