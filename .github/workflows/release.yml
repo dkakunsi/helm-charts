@@ -33,4 +33,4 @@ jobs:
       - name: Release
         run: bash ./release.sh ${{ github.event.inputs.solution }} ${{ github.event.inputs.version }}
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
