@@ -1,0 +1,26 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      solution:
+        description: 'Solution to release'
+        required: true
+        type: string
+      version:
+        description: 'Version to release'
+        required: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Release
+        run: bash ./release.sh ${{ github.event.inputs.solution }} ${{ github.event.inputs.version }}
