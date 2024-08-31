@@ -26,6 +26,10 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "Github Actions"
+      - name: Print
+        run: |
+          ls
+          pwd
       - name: Release
         run: bash ./release.sh ${{ github.event.inputs.solution }} ${{ github.event.inputs.version }}
         env:
