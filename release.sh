@@ -12,7 +12,7 @@ release_reference() {
   cd ..
   helm repo index .
 
-  # commit_push $1 $2
+  commit_push $1 $2
 }
 
 commit_push() {
