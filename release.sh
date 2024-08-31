@@ -10,7 +10,7 @@ release_reference() {
   helm pull oci://ghcr.io/cortechdigitallab/helm/reference-gateway --version $2
 
   cd ..
-  helm repo index .
+  helm repo index . --url https://cortechdigitallab.github.io/helm-charts
 
   commit_push $1 $2
 }
