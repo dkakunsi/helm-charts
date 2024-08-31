@@ -16,3 +16,7 @@ fi
 
 cd ..
 helm repo index .
+
+git add .
+git commit -m "Update charts"
+git push
