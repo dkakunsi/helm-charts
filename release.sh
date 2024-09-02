@@ -4,13 +4,13 @@ release_reference() {
   echo "Releasing solution reference version $2"
 
   cd $1
-  helm pull oci://ghcr.io/cortechdigitallab/helm/reference-iam --version $2
-  helm pull oci://ghcr.io/cortechdigitallab/helm/reference-data --version $2
-  helm pull oci://ghcr.io/cortechdigitallab/helm/reference-process --version $2
-  helm pull oci://ghcr.io/cortechdigitallab/helm/reference-gateway --version $2
+  helm pull oci://ghcr.io/dkakunsi/helm/reference-iam --version $2
+  helm pull oci://ghcr.io/dkakunsi/helm/reference-data --version $2
+  helm pull oci://ghcr.io/dkakunsi/helm/reference-process --version $2
+  helm pull oci://ghcr.io/dkakunsi/helm/reference-gateway --version $2
 
   cd ..
-  helm repo index . --url https://cortechdigitallab.github.io/helm-charts
+  helm repo index . --url https://dkakunsi.github.io/helm-charts
 
   commit_push $1 $2
 }
