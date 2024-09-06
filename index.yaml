@@ -3,7 +3,7 @@ entries:
   reference-data:
   - apiVersion: v1
     appVersion: 1.1.18-SNAPSHOT
-    created: "2024-09-06T01:09:02.991823922Z"
+    created: "2024-09-06T02:32:05.262266198Z"
     description: Data service of mscore system for reference solution
     digest: f0c6db9eae3fb724fd44cbc6e2e536f76309e3eb107751babd299344c2dc876f
     keywords:
@@ -15,7 +15,7 @@ entries:
     version: 1.1.18-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.1.8-SNAPSHOT
-    created: "2024-09-06T01:09:02.992180469Z"
+    created: "2024-09-06T02:32:05.262619335Z"
     description: Data service of mscore system for reference solution
     digest: 493d70c7c0d64ab1f4eee1e52b80d39e14ab0fb7ce4e4f0905a75ef5c40bc4a8
     keywords:
@@ -27,7 +27,7 @@ entries:
     version: 1.1.8-SNAPSHOT-arm
   - apiVersion: v1
     appVersion: 1.1.1
-    created: "2024-09-06T01:09:02.99147018Z"
+    created: "2024-09-06T02:32:05.261806322Z"
     description: Data service of mscore system for reference solution
     digest: 08d204efff98d5bca2f09b8eef8930bac6befa72b7e28179c92f762a6104feb5
     keywords:
@@ -39,7 +39,7 @@ entries:
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.1"
-    created: "2024-09-06T01:09:02.992579345Z"
+    created: "2024-09-06T02:32:05.262961522Z"
     description: Data service of mscore system for reference solution
     digest: 9d5536492deb26555572f7100b17d4955089ae5fe0294516fceddf7851b310f1
     keywords:
@@ -52,7 +52,7 @@ entries:
   reference-gateway:
   - apiVersion: v1
     appVersion: 1.1.18-SNAPSHOT
-    created: "2024-09-06T01:09:02.993101763Z"
+    created: "2024-09-06T02:32:05.263663227Z"
     description: Gateway service of mscore system for reference solution
     digest: db65cefe63cd6f4854d86a33f63c683180bd66f1a54333ceb40448ea2d5babfd
     keywords:
@@ -64,7 +64,7 @@ entries:
     version: 1.1.18-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.1.8-SNAPSHOT
-    created: "2024-09-06T01:09:02.993354235Z"
+    created: "2024-09-06T02:32:05.264177134Z"
     description: Gateway service of mscore system for reference solution
     digest: a9c3d23a6fcb4d9452041aada7be9841a8e8f779d7569350f7f95434bebeefaa
     keywords:
@@ -76,7 +76,7 @@ entries:
     version: 1.1.8-SNAPSHOT-arm
   - apiVersion: v1
     appVersion: 1.1.1
-    created: "2024-09-06T01:09:02.992851525Z"
+    created: "2024-09-06T02:32:05.2632025Z"
     description: Gateway service of mscore system for reference solution
     digest: ccb886d64e1fc9220df33dde4662297ae345e5179b70a42cbac31b3e8f7b0925
     keywords:
@@ -88,7 +88,7 @@ entries:
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.1"
-    created: "2024-09-06T01:09:02.993601278Z"
+    created: "2024-09-06T02:32:05.264720501Z"
     description: Gateway service of mscore system for reference solution
     digest: cde07c1e563eb8f9c8d3d5aa52c968d89e351e62bafc97797ecb241a87b4a836
     keywords:
@@ -101,7 +101,7 @@ entries:
   reference-iam:
   - apiVersion: v1
     appVersion: 1.1.18-SNAPSHOT
-    created: "2024-09-06T01:09:02.994230125Z"
+    created: "2024-09-06T02:32:05.265384977Z"
     description: IAM service of mscore system for reference solution
     digest: 7d67ae194c49d17ad4a8a66f6b7448ebb2bf8eceed94da96b1ddba7d308b772a
     keywords:
@@ -113,7 +113,7 @@ entries:
     version: 1.1.18-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.1.8-SNAPSHOT
-    created: "2024-09-06T01:09:02.994573147Z"
+    created: "2024-09-06T02:32:05.265728166Z"
     description: IAM service of mscore system for reference solution
     digest: 6db3151e4b28b656e869fff22046a8353bc90584d78782f2b23aa54b1d8a6098
     keywords:
@@ -125,7 +125,7 @@ entries:
     version: 1.1.8-SNAPSHOT-arm
   - apiVersion: v1
     appVersion: 1.1.1
-    created: "2024-09-06T01:09:02.99394446Z"
+    created: "2024-09-06T02:32:05.265087103Z"
     description: IAM service of mscore system for reference solution
     digest: 2122d230eeded7b50b6f7b0894b8657fd3bc9c07eefc17258e9dc665fd24e5b9
     keywords:
@@ -137,7 +137,7 @@ entries:
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.1"
-    created: "2024-09-06T01:09:02.994916549Z"
+    created: "2024-09-06T02:32:05.266046889Z"
     description: IAM service of mscore system for reference solution
     digest: 5b62a18c69aad2168899b4890f1db855b5086e48650c08c7d103ca3da45aaee4
     keywords:
@@ -150,7 +150,7 @@ entries:
   reference-process:
   - apiVersion: v1
     appVersion: 1.1.18-SNAPSHOT
-    created: "2024-09-06T01:09:02.995792939Z"
+    created: "2024-09-06T02:32:05.266732916Z"
     description: Process service of mscore system for reference solution
     digest: 866ec31a3058643f8352d4269491ea4f6d87504c49794b59bfa11371039be34c
     keywords:
@@ -162,7 +162,7 @@ entries:
     version: 1.1.18-SNAPSHOT
   - apiVersion: v1
     appVersion: 1.1.8-SNAPSHOT
-    created: "2024-09-06T01:09:02.996628483Z"
+    created: "2024-09-06T02:32:05.267490355Z"
     description: Process service of mscore system for reference solution
     digest: 7be2544962994e23f1daef02d459a15e5f156f7c79dd1b16f124ff36b2487f97
     keywords:
@@ -173,8 +173,20 @@ entries:
     - https://dkakunsi.github.io/helm-charts/reference/reference-process-1.1.8-SNAPSHOT-arm.tgz
     version: 1.1.8-SNAPSHOT-arm
   - apiVersion: v1
+    appVersion: 1.1.2
+    created: "2024-09-06T02:32:05.267102794Z"
+    description: Process service of mscore system for reference solution
+    digest: 29b77933ec9dd348b130c98519e96d817b736f8dbdd69a0c9bab94e0796f8832
+    keywords:
+    - cortech
+    - mscore
+    name: reference-process
+    urls:
+    - https://dkakunsi.github.io/helm-charts/reference/reference-process-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
     appVersion: 1.1.1
-    created: "2024-09-06T01:09:02.995287053Z"
+    created: "2024-09-06T02:32:05.266417499Z"
     description: Process service of mscore system for reference solution
     digest: 2a08613718c70c02fc8639e164473f67f4022546624e3ee0fb8905b4834251eb
     keywords:
@@ -186,7 +198,7 @@ entries:
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.1"
-    created: "2024-09-06T01:09:02.997266858Z"
+    created: "2024-09-06T02:32:05.267851988Z"
     description: Process service of mscore system for reference solution
     digest: bf77b9bca90bd306f4962ea3a667046071e6c5b02d72dcf158e0f34b9ea95d22
     keywords:
@@ -196,4 +208,4 @@ entries:
     urls:
     - https://dkakunsi.github.io/helm-charts/reference/reference-process-1.1.tgz
     version: "1.1"
-generated: "2024-09-06T01:09:02.990904701Z"
+generated: "2024-09-06T02:32:05.261304208Z"
