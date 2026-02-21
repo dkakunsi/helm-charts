@@ -3,8 +3,8 @@ name: Release
 on:
   workflow_dispatch:
     inputs:
-      solution:
-        description: 'Solution to release'
+      app:
+        description: 'Application to release'
         required: true
         type: string
       version:
@@ -33,6 +33,6 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.TOKEN }}
       - name: Release
-        run: bash ./release.sh ${{ github.event.inputs.solution }} ${{ github.event.inputs.version }}
+        run: make "${{ github.event.inputs.app }}" VERSION="${{ github.event.inputs.version }}"
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
