@@ -3,7 +3,7 @@ entries:
   bitapp-app:
   - apiVersion: v1
     appVersion: "202602210641"
-    created: "2026-02-28T21:28:02.901416454Z"
+    created: "2026-03-04T22:53:17.142504151Z"
     digest: 165df30dc564d1409445643b3ffda072a3a5342571ad33c01a89c06c4afb2765
     keywords:
     - dkakunsi
@@ -14,7 +14,7 @@ entries:
     version: "202602210641"
   - apiVersion: v1
     appVersion: "202602210602"
-    created: "2026-02-28T21:28:02.90114306Z"
+    created: "2026-03-04T22:53:17.141977116Z"
     digest: 72c7203214e2ca21db3f24b2ff0420016eccb706e9ad96a899b62b4a5a164167
     keywords:
     - dkakunsi
@@ -25,7 +25,7 @@ entries:
     version: "202602210602"
   - apiVersion: v1
     appVersion: 1.0.202602210256
-    created: "2026-02-28T21:28:02.900872951Z"
+    created: "2026-03-04T22:53:17.141704817Z"
     digest: a8910117db338d0330dfa9b8cb482fb396e70acd499f9051802a829a1898451d
     keywords:
     - dkakunsi
@@ -36,7 +36,7 @@ entries:
     version: 1.0.202602210256
   - apiVersion: v1
     appVersion: 1.0-d834eca.202602280728
-    created: "2026-02-28T21:28:02.900610337Z"
+    created: "2026-03-04T22:53:17.14144401Z"
     digest: 513667740539b0b4a5ddd629fc815dc5fa987cecd699c42edca5f4e9738f22ae
     keywords:
     - dkakunsi
@@ -46,8 +46,19 @@ entries:
     - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-d834eca.202602280728.tgz
     version: 1.0-d834eca.202602280728
   - apiVersion: v1
+    appVersion: 1.0-ca93324.202603042247
+    created: "2026-03-04T22:53:17.141158306Z"
+    digest: dbb500de1f63d856b4c5fc4d73baabbe6104d5a50c7835f1708006d6dec24232
+    keywords:
+    - dkakunsi
+    - bitapp
+    name: bitapp-app
+    urls:
+    - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-ca93324.202603042247.tgz
+    version: 1.0-ca93324.202603042247
+  - apiVersion: v1
     appVersion: 1.0-80ae985.202602280939
-    created: "2026-02-28T21:28:02.899952098Z"
+    created: "2026-03-04T22:53:17.140508523Z"
     digest: ae5c041f18a1fdd86ed6c9cf021d9b9df296b9ecf3e17b107dfd5f00e90a4a3d
     keywords:
     - dkakunsi
@@ -58,7 +69,7 @@ entries:
     version: 1.0-80ae985.202602280939
   - apiVersion: v1
     appVersion: 1.0-128e5e8.202602282123
-    created: "2026-02-28T21:28:02.894703198Z"
+    created: "2026-03-04T22:53:17.140198363Z"
     digest: 16f26a3a21cc2ea53d321ac9d792b86dbd1949aa534cb157cf115e394c75df37
     keywords:
     - dkakunsi
@@ -69,7 +80,7 @@ entries:
     version: 1.0-128e5e8.202602282123
   - apiVersion: v1
     appVersion: 1.0-8750418.202602210941
-    created: "2026-02-28T21:28:02.900295575Z"
+    created: "2026-03-04T22:53:17.140837787Z"
     digest: 8492d63adbe92c1e3edc9f37f20bec4d40567a33d354577c14011335dcd5f4f6
     keywords:
     - dkakunsi
@@ -78,4 +89,4 @@ entries:
     urls:
     - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-8750418.202602210941.tgz
     version: 1.0-8750418.202602210941
-generated: "2026-02-28T21:28:02.885767129Z"
+generated: "2026-03-04T22:53:17.135492134Z"
