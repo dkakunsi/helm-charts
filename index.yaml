@@ -3,7 +3,7 @@ entries:
   bitapp-app:
   - apiVersion: v1
     appVersion: "202602210641"
-    created: "2026-07-19T21:24:06.742552557Z"
+    created: "2026-07-20T13:54:08.138610585Z"
     digest: 165df30dc564d1409445643b3ffda072a3a5342571ad33c01a89c06c4afb2765
     keywords:
     - dkakunsi
@@ -14,7 +14,7 @@ entries:
     version: "202602210641"
   - apiVersion: v1
     appVersion: "202602210602"
-    created: "2026-07-19T21:24:06.74229991Z"
+    created: "2026-07-20T13:54:08.13825464Z"
     digest: 72c7203214e2ca21db3f24b2ff0420016eccb706e9ad96a899b62b4a5a164167
     keywords:
     - dkakunsi
@@ -25,7 +25,7 @@ entries:
     version: "202602210602"
   - apiVersion: v1
     appVersion: 1.0.202602210256
-    created: "2026-07-19T21:24:06.742035636Z"
+    created: "2026-07-20T13:54:08.137631064Z"
     digest: a8910117db338d0330dfa9b8cb482fb396e70acd499f9051802a829a1898451d
     keywords:
     - dkakunsi
@@ -36,7 +36,7 @@ entries:
     version: 1.0.202602210256
   - apiVersion: v1
     appVersion: 1.0-d834eca.202602280728
-    created: "2026-07-19T21:24:06.74178357Z"
+    created: "2026-07-20T13:54:08.137434448Z"
     digest: 513667740539b0b4a5ddd629fc815dc5fa987cecd699c42edca5f4e9738f22ae
     keywords:
     - dkakunsi
@@ -47,7 +47,7 @@ entries:
     version: 1.0-d834eca.202602280728
   - apiVersion: v1
     appVersion: 1.0-cf3df28.202605101257
-    created: "2026-07-19T21:24:06.741497383Z"
+    created: "2026-07-20T13:54:08.137252054Z"
     digest: 77315b3fb904d7dd94b7aeae505d826ddc4d9f7f7360e21047fdb2ccddce2b94
     keywords:
     - dkakunsi
@@ -58,7 +58,7 @@ entries:
     version: 1.0-cf3df28.202605101257
   - apiVersion: v1
     appVersion: 1.0-ca93324.202603042247
-    created: "2026-07-19T21:24:06.741248231Z"
+    created: "2026-07-20T13:54:08.13700977Z"
     digest: dbb500de1f63d856b4c5fc4d73baabbe6104d5a50c7835f1708006d6dec24232
     keywords:
     - dkakunsi
@@ -68,8 +68,19 @@ entries:
     - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-ca93324.202603042247.tgz
     version: 1.0-ca93324.202603042247
   - apiVersion: v1
+    appVersion: 1.0-c0af01f.202607201350
+    created: "2026-07-20T13:54:08.136806515Z"
+    digest: f357d19b105b6e101eaeb80e09983d6b8fa1656bcc7663ee6c31a1c219966054
+    keywords:
+    - dkakunsi
+    - bitapp
+    name: bitapp-app
+    urls:
+    - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-c0af01f.202607201350.tgz
+    version: 1.0-c0af01f.202607201350
+  - apiVersion: v1
     appVersion: 1.0-bded537.202605300449
-    created: "2026-07-19T21:24:06.740951649Z"
+    created: "2026-07-20T13:54:08.136619974Z"
     digest: 225aac67eb04c6b62ed707c83b0e27365756b6f27562b4ceb48ecba6ea5efc1d
     keywords:
     - dkakunsi
@@ -80,7 +91,7 @@ entries:
     version: 1.0-bded537.202605300449
   - apiVersion: v1
     appVersion: 1.0-bac56ce.202607071738
-    created: "2026-07-19T21:24:06.740633724Z"
+    created: "2026-07-20T13:54:08.136435026Z"
     digest: cd375967afeef6d3c19a1b630fbdc79d21a4e6764da835058cb4c9ba430f6d89
     keywords:
     - dkakunsi
@@ -91,7 +102,7 @@ entries:
     version: 1.0-bac56ce.202607071738
   - apiVersion: v1
     appVersion: 1.0-b6db8e1.202603070756
-    created: "2026-07-19T21:24:06.739924561Z"
+    created: "2026-07-20T13:54:08.136233774Z"
     digest: 8b4e46a180d72d956c873bf1d987bc6d38435e48b7b7945bab18900da8c26796
     keywords:
     - dkakunsi
@@ -102,7 +113,7 @@ entries:
     version: 1.0-b6db8e1.202603070756
   - apiVersion: v1
     appVersion: 1.0-a5aa60d.202606151445
-    created: "2026-07-19T21:24:06.739295207Z"
+    created: "2026-07-20T13:54:08.136004299Z"
     digest: 18596c35b575f41b38ec2aeb9ddb056deeaa8163a658a73191208ead6c828b68
     keywords:
     - dkakunsi
@@ -113,7 +124,7 @@ entries:
     version: 1.0-a5aa60d.202606151445
   - apiVersion: v1
     appVersion: 1.0-a074edf.202605300355
-    created: "2026-07-19T21:24:06.739013617Z"
+    created: "2026-07-20T13:54:08.135820673Z"
     digest: 874a2e9ab4f6616c6e472037bc0081fe7e373a4f17f61adfdd95ec90d1c481aa
     keywords:
     - dkakunsi
@@ -124,7 +135,7 @@ entries:
     version: 1.0-a074edf.202605300355
   - apiVersion: v1
     appVersion: 1.0-9acb8b9.202605101003
-    created: "2026-07-19T21:24:06.738773929Z"
+    created: "2026-07-20T13:54:08.135635255Z"
     digest: 20969ddc5c2957d9aaf102efa1fe436f656bc26a9580cc9624e20313825cb53d
     keywords:
     - dkakunsi
@@ -135,7 +146,7 @@ entries:
     version: 1.0-9acb8b9.202605101003
   - apiVersion: v1
     appVersion: 1.0-98210c0.202607192120
-    created: "2026-07-19T21:24:06.738525859Z"
+    created: "2026-07-20T13:54:08.135442785Z"
     digest: c31b4ef96fcf912aa9db75366911cf7eedb5937c3c4b15da74998edfa3a31ad2
     keywords:
     - dkakunsi
@@ -146,7 +157,7 @@ entries:
     version: 1.0-98210c0.202607192120
   - apiVersion: v1
     appVersion: 1.0-915e1bb.202603070520
-    created: "2026-07-19T21:24:06.738250578Z"
+    created: "2026-07-20T13:54:08.135255744Z"
     digest: 3ff27b6330d81b5896e752f30d8061a887e1a9518dfb92c8bbe4090df69c279e
     keywords:
     - dkakunsi
@@ -157,7 +168,7 @@ entries:
     version: 1.0-915e1bb.202603070520
   - apiVersion: v1
     appVersion: 1.0-8f1b78f.202605081945
-    created: "2026-07-19T21:24:06.737927917Z"
+    created: "2026-07-20T13:54:08.135028253Z"
     digest: cb19c6de76ca9ebd3f9bb161f97ec6600079f7d90989e25361fc5be346bbd9b2
     keywords:
     - dkakunsi
@@ -168,7 +179,7 @@ entries:
     version: 1.0-8f1b78f.202605081945
   - apiVersion: v1
     appVersion: 1.0-80ae985.202602280939
-    created: "2026-07-19T21:24:06.737351867Z"
+    created: "2026-07-20T13:54:08.1346076Z"
     digest: ae5c041f18a1fdd86ed6c9cf021d9b9df296b9ecf3e17b107dfd5f00e90a4a3d
     keywords:
     - dkakunsi
@@ -179,7 +190,7 @@ entries:
     version: 1.0-80ae985.202602280939
   - apiVersion: v1
     appVersion: 1.0-8093f2a.202605300309
-    created: "2026-07-19T21:24:06.737074534Z"
+    created: "2026-07-20T13:54:08.133591283Z"
     digest: 2b56313af40390571738ccb9f726717cb2034f5df53d9eb1e25078090a822e3a
     keywords:
     - dkakunsi
@@ -190,7 +201,7 @@ entries:
     version: 1.0-8093f2a.202605300309
   - apiVersion: v1
     appVersion: 1.0-65cab8c.202606011336
-    created: "2026-07-19T21:24:06.736801346Z"
+    created: "2026-07-20T13:54:08.133407236Z"
     digest: bb38bc63eaf3d7e5dbd0f5ca4bc7dc7ff26c94338cc21663ea43987d81ca9bda
     keywords:
     - dkakunsi
@@ -201,7 +212,7 @@ entries:
     version: 1.0-65cab8c.202606011336
   - apiVersion: v1
     appVersion: 1.0-641d573.202606010537
-    created: "2026-07-19T21:24:06.736538504Z"
+    created: "2026-07-20T13:54:08.133219364Z"
     digest: bc3c2c3ea1240c334cda136e4d263141d88bc00df0497168f5b8b37e34cc3831
     keywords:
     - dkakunsi
@@ -212,7 +223,7 @@ entries:
     version: 1.0-641d573.202606010537
   - apiVersion: v1
     appVersion: 1.0-527302b.202605300820
-    created: "2026-07-19T21:24:06.736288711Z"
+    created: "2026-07-20T13:54:08.133013655Z"
     digest: d57df95309a3fc6c2d2ace5e86c36820f98dacca402993a325c9fbbbf788651f
     keywords:
     - dkakunsi
@@ -223,7 +234,7 @@ entries:
     version: 1.0-527302b.202605300820
   - apiVersion: v1
     appVersion: 1.0-3a4231c.202605082110
-    created: "2026-07-19T21:24:06.735980331Z"
+    created: "2026-07-20T13:54:08.132822257Z"
     digest: f8cb934a7162fd8832c8d7aefb48b3546dc1027c0fa854383dbb19585864423b
     keywords:
     - dkakunsi
@@ -234,7 +245,7 @@ entries:
     version: 1.0-3a4231c.202605082110
   - apiVersion: v1
     appVersion: 1.0-329e165.202605300654
-    created: "2026-07-19T21:24:06.73569844Z"
+    created: "2026-07-20T13:54:08.132615447Z"
     digest: 39156d56e4f412ee2dab3eec5829b9ce9e2550434e7af2827c288c71eeade788
     keywords:
     - dkakunsi
@@ -245,7 +256,7 @@ entries:
     version: 1.0-329e165.202605300654
   - apiVersion: v1
     appVersion: 1.0-2c043f5.202606011224
-    created: "2026-07-19T21:24:06.735422308Z"
+    created: "2026-07-20T13:54:08.132416157Z"
     digest: 6923484c2533165ee809595bacca41a60a88891b7dd9bade5206a20441fea131
     keywords:
     - dkakunsi
@@ -256,7 +267,7 @@ entries:
     version: 1.0-2c043f5.202606011224
   - apiVersion: v1
     appVersion: 1.0-27f1605.202607061617
-    created: "2026-07-19T21:24:06.735082962Z"
+    created: "2026-07-20T13:54:08.132194995Z"
     digest: a85fed7e280cfaee9cc9a1141119ecb9d2662c1166ceaf2e4a10e17ea268e2b9
     keywords:
     - dkakunsi
@@ -267,7 +278,7 @@ entries:
     version: 1.0-27f1605.202607061617
   - apiVersion: v1
     appVersion: 1.0-213e0e0.202605300327
-    created: "2026-07-19T21:24:06.734330033Z"
+    created: "2026-07-20T13:54:08.131975545Z"
     digest: 08281b93e1488c41ccff77528c763ceae7209001772fb448f25bc31952c3b7ea
     keywords:
     - dkakunsi
@@ -278,7 +289,7 @@ entries:
     version: 1.0-213e0e0.202605300327
   - apiVersion: v1
     appVersion: 1.0-128e5e8.202602282123
-    created: "2026-07-19T21:24:06.73312838Z"
+    created: "2026-07-20T13:54:08.131535804Z"
     digest: 16f26a3a21cc2ea53d321ac9d792b86dbd1949aa534cb157cf115e394c75df37
     keywords:
     - dkakunsi
@@ -289,7 +300,7 @@ entries:
     version: 1.0-128e5e8.202602282123
   - apiVersion: v1
     appVersion: 1.0-8750418.202602210941
-    created: "2026-07-19T21:24:06.73762195Z"
+    created: "2026-07-20T13:54:08.134833109Z"
     digest: 8492d63adbe92c1e3edc9f37f20bec4d40567a33d354577c14011335dcd5f4f6
     keywords:
     - dkakunsi
@@ -300,7 +311,7 @@ entries:
     version: 1.0-8750418.202602210941
   - apiVersion: v1
     appVersion: 1.0-1970488.202607181324
-    created: "2026-07-19T21:24:06.733446315Z"
+    created: "2026-07-20T13:54:08.131760412Z"
     digest: a0c1fd7b6966dc4f1573c570ec1cec7f9e8c82e3de3ea45d8085164819c15f9e
     keywords:
     - dkakunsi
@@ -309,4 +320,4 @@ entries:
     urls:
     - https://dkakunsi.github.io/helm-charts/charts/bitapp-app-1.0-1970488.202607181324.tgz
     version: 1.0-1970488.202607181324
-generated: "2026-07-19T21:24:06.727081437Z"
+generated: "2026-07-20T13:54:08.131178918Z"
